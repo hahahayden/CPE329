@@ -2,7 +2,7 @@ Initialize a git repository locally:
 Git init
 Git remote add origin <URL>
 Git pull origin master
-
+git fetch --all
 Switch Branches:
 Git checkout <branch name>
 

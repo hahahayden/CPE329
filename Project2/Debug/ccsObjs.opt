@@ -1,0 +1,1 @@
+"./DAC.obj" "./FSM.obj" "./Keypad.obj" "./LCD.obj" "./P2.obj" "./delay.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "../msp432p401r.cmd" -llibc.a 

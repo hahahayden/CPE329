@@ -2,8 +2,9 @@ Initialize a git repository locally:
 Git init
 Git remote add origin <URL>
 Git pull origin master
-
+git fetch --all
 Switch Branches:
+$ git checkout -b [name_of_your_new_branch] to create branch
 Git checkout <branch name>
 
 Check Status: 
